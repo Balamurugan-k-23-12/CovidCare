@@ -10,7 +10,7 @@ also the user can fetch the location of hospital
 *The hospital can modify the bed data  </br>
 *The hospital will receive mail if user book a bed in that hospital  </br>
 
-#PATIENT END  </br>
+# PATIENT END  </br>
 *The user can register by E-Mail authentication  </br>
 *The user can create profile by entering name,age and other details  </br>
 *The user will be navigated to dashboard  </br>
